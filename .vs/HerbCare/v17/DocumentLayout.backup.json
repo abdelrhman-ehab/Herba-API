@@ -1,0 +1,648 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HerbCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\models\\questionquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\models\\questionquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\models\\userstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\models\\userstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\models\\userquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\models\\userquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\dtos\\quizdtos\\answerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\dtos\\quizdtos\\answerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\dtos\\quizdtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\dtos\\quizdtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\dtos\\quizdtos\\userquizresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\dtos\\quizdtos\\userquizresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\dtos\\quizdtos\\submitquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\dtos\\quizdtos\\submitquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HerbCare\\HerbCare\\Data\\20260425202749_ChangeProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HerbCare\\Data\\20260425202749_ChangeProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\herbcare.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\herbcare.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\dtos\\exercisedtos\\exercisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\dtos\\exercisedtos\\exercisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\controllers\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\controllers\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\models\\storeproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\models\\storeproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\dtos\\storedtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\dtos\\storedtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\dtos\\authdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\dtos\\authdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\dtos\\exercisedtos\\createexercisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\dtos\\exercisedtos\\createexercisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\dtos\\exercisedtos\\assignexercisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\dtos\\exercisedtos\\assignexercisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\dtos\\herbdtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\dtos\\herbdtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\controllers\\herbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\controllers\\herbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\dtos\\herbdtos\\createherbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\dtos\\herbdtos\\createherbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\dtos\\herbdtos\\herbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\dtos\\herbdtos\\herbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\models\\herb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\models\\herb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\dtos\\quizdtos\\quizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\dtos\\quizdtos\\quizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\dtos\\quizdtos\\quizresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\dtos\\quizdtos\\quizresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\models\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\models\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|c:\\herbcare\\herbcare\\dtos\\idealweightdtos\\bmicalculationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A24538-C4EE-4581-927C-1B1437D3A543}|HerbCare\\HerbCare.csproj|solutionrelative:herbcare\\dtos\\idealweightdtos\\bmicalculationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Models\\Store.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Models\\Store.cs",
+              "RelativeToolTip": "HerbCare\\Models\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T23:51:36.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserStore.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Models\\UserStore.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Models\\UserStore.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Models\\UserStore.cs",
+              "RelativeToolTip": "HerbCare\\Models\\UserStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T23:51:33.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuestionDTO.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\DTOs\\QuizDTOs\\QuestionDTO.cs",
+              "RelativeDocumentMoniker": "HerbCare\\DTOs\\QuizDTOs\\QuestionDTO.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\DTOs\\QuizDTOs\\QuestionDTO.cs",
+              "RelativeToolTip": "HerbCare\\DTOs\\QuizDTOs\\QuestionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:35:11.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnswerDTO.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\DTOs\\QuizDTOs\\AnswerDTO.cs",
+              "RelativeDocumentMoniker": "HerbCare\\DTOs\\QuizDTOs\\AnswerDTO.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\DTOs\\QuizDTOs\\AnswerDTO.cs",
+              "RelativeToolTip": "HerbCare\\DTOs\\QuizDTOs\\AnswerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:55:25.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Models\\Question.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Models\\Question.cs",
+              "RelativeToolTip": "HerbCare\\Models\\Question.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:30:40.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestionQuiz.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Models\\QuestionQuiz.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Models\\QuestionQuiz.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Models\\QuestionQuiz.cs",
+              "RelativeToolTip": "HerbCare\\Models\\QuestionQuiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:51:34.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Models\\Quiz.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Models\\Quiz.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Models\\Quiz.cs",
+              "RelativeToolTip": "HerbCare\\Models\\Quiz.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:43:21.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserQuizResultDTO.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\DTOs\\QuizDTOs\\UserQuizResultDTO.cs",
+              "RelativeDocumentMoniker": "HerbCare\\DTOs\\QuizDTOs\\UserQuizResultDTO.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\DTOs\\QuizDTOs\\UserQuizResultDTO.cs",
+              "RelativeToolTip": "HerbCare\\DTOs\\QuizDTOs\\UserQuizResultDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:55:34.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SubmitQuizDTO.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\DTOs\\QuizDTOs\\SubmitQuizDTO.cs",
+              "RelativeDocumentMoniker": "HerbCare\\DTOs\\QuizDTOs\\SubmitQuizDTO.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\DTOs\\QuizDTOs\\SubmitQuizDTO.cs",
+              "RelativeToolTip": "HerbCare\\DTOs\\QuizDTOs\\SubmitQuizDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:56:16.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserQuiz.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Models\\UserQuiz.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Models\\UserQuiz.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Models\\UserQuiz.cs",
+              "RelativeToolTip": "HerbCare\\Models\\UserQuiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:40:31.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HerbCare\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAkwMAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:41:41.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "HerbCare\\Controllers\\StoreController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAIAwwGQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T20:24:38.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260425202749_ChangeProduct.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Data\\20260425202749_ChangeProduct.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Data\\20260425202749_ChangeProduct.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Data\\20260425202749_ChangeProduct.cs",
+              "RelativeToolTip": "HerbCare\\Data\\20260425202749_ChangeProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T20:27:49.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HerbCare",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\HerbCare.csproj",
+              "RelativeDocumentMoniker": "HerbCare\\HerbCare.csproj",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\HerbCare.csproj",
+              "RelativeToolTip": "HerbCare\\HerbCare.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-27T23:35:45.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExerciseDTO.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\DTOs\\ExerciseDTOs\\ExerciseDTO.cs",
+              "RelativeDocumentMoniker": "HerbCare\\DTOs\\ExerciseDTOs\\ExerciseDTO.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\DTOs\\ExerciseDTOs\\ExerciseDTO.cs",
+              "RelativeToolTip": "HerbCare\\DTOs\\ExerciseDTOs\\ExerciseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:40:55.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExerciseController.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Controllers\\ExerciseController.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Controllers\\ExerciseController.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Controllers\\ExerciseController.cs",
+              "RelativeToolTip": "HerbCare\\Controllers\\ExerciseController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwGoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:41:24.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StoreProduct.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Models\\StoreProduct.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Models\\StoreProduct.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Models\\StoreProduct.cs",
+              "RelativeToolTip": "HerbCare\\Models\\StoreProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T20:22:21.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Models\\Product.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Models\\Product.cs",
+              "RelativeToolTip": "HerbCare\\Models\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T20:22:14.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\DTOs\\StoreDTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "HerbCare\\DTOs\\StoreDTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\DTOs\\StoreDTOs\\ProductDTO.cs",
+              "RelativeToolTip": "HerbCare\\DTOs\\StoreDTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T20:22:38.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HerbCare\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAMABAAAAAAAAAAD4v8wBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:52:51.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\DTOs\\AuthDTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "HerbCare\\DTOs\\AuthDTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\DTOs\\AuthDTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "HerbCare\\DTOs\\AuthDTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T19:59:31.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateExerciseDTO.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\DTOs\\ExerciseDTOs\\CreateExerciseDTO.cs",
+              "RelativeDocumentMoniker": "HerbCare\\DTOs\\ExerciseDTOs\\CreateExerciseDTO.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\DTOs\\ExerciseDTOs\\CreateExerciseDTO.cs",
+              "RelativeToolTip": "HerbCare\\DTOs\\ExerciseDTOs\\CreateExerciseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:40:27.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AssignExerciseDTO.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\DTOs\\ExerciseDTOs\\AssignExerciseDTO.cs",
+              "RelativeDocumentMoniker": "HerbCare\\DTOs\\ExerciseDTOs\\AssignExerciseDTO.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\DTOs\\ExerciseDTOs\\AssignExerciseDTO.cs",
+              "RelativeToolTip": "HerbCare\\DTOs\\ExerciseDTOs\\AssignExerciseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:40:10.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Models\\Exercise.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Models\\Exercise.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Models\\Exercise.cs",
+              "RelativeToolTip": "HerbCare\\Models\\Exercise.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:31:25.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Controllers\\QuizController.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "HerbCare\\Controllers\\QuizController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAQwGMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:47:02.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\DTOs\\HerbDTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "HerbCare\\DTOs\\HerbDTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\DTOs\\HerbDTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "HerbCare\\DTOs\\HerbDTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:22:33.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HerbController.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Controllers\\HerbController.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Controllers\\HerbController.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Controllers\\HerbController.cs",
+              "RelativeToolTip": "HerbCare\\Controllers\\HerbController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwDUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:22:50.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateHerbDTO.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\DTOs\\HerbDTOs\\CreateHerbDTO.cs",
+              "RelativeDocumentMoniker": "HerbCare\\DTOs\\HerbDTOs\\CreateHerbDTO.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\DTOs\\HerbDTOs\\CreateHerbDTO.cs",
+              "RelativeToolTip": "HerbCare\\DTOs\\HerbDTOs\\CreateHerbDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:22:25.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HerbDTO.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\DTOs\\HerbDTOs\\HerbDTO.cs",
+              "RelativeDocumentMoniker": "HerbCare\\DTOs\\HerbDTOs\\HerbDTO.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\DTOs\\HerbDTOs\\HerbDTO.cs",
+              "RelativeToolTip": "HerbCare\\DTOs\\HerbDTOs\\HerbDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:22:17.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Herb.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Models\\Herb.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Models\\Herb.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Models\\Herb.cs",
+              "RelativeToolTip": "HerbCare\\Models\\Herb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:18:24.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "QuizDTO.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\DTOs\\QuizDTOs\\QuizDTO.cs",
+              "RelativeDocumentMoniker": "HerbCare\\DTOs\\QuizDTOs\\QuizDTO.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\DTOs\\QuizDTOs\\QuizDTO.cs",
+              "RelativeToolTip": "HerbCare\\DTOs\\QuizDTOs\\QuizDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:46:49.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "QuizResultDTO.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\DTOs\\QuizDTOs\\QuizResultDTO.cs",
+              "RelativeDocumentMoniker": "HerbCare\\DTOs\\QuizDTOs\\QuizResultDTO.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\DTOs\\QuizDTOs\\QuizResultDTO.cs",
+              "RelativeToolTip": "HerbCare\\DTOs\\QuizDTOs\\QuizResultDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:56:04.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Models\\CartItem.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Models\\CartItem.cs",
+              "RelativeToolTip": "HerbCare\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:40:47.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Consultation.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Models\\Consultation.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Models\\Consultation.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Models\\Consultation.cs",
+              "RelativeToolTip": "HerbCare\\Models\\Consultation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:40:48.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Models\\Cart.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Models\\Cart.cs",
+              "RelativeToolTip": "HerbCare\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:40:22.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HerbCare\\Models\\Doctor.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\Models\\Doctor.cs",
+              "RelativeToolTip": "HerbCare\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:40:52.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BMICalculationDTO.cs",
+              "DocumentMoniker": "C:\\HerbCare\\HerbCare\\DTOs\\IdealWeightDTOs\\BMICalculationDTO.cs",
+              "RelativeDocumentMoniker": "HerbCare\\DTOs\\IdealWeightDTOs\\BMICalculationDTO.cs",
+              "ToolTip": "C:\\HerbCare\\HerbCare\\DTOs\\IdealWeightDTOs\\BMICalculationDTO.cs",
+              "RelativeToolTip": "HerbCare\\DTOs\\IdealWeightDTOs\\BMICalculationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:20:45.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
